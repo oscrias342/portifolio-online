@@ -1,0 +1,21 @@
+LOGIN              - <ion-icon name="person"></ion-icon>
+LUPA               - <ion-icon name="search"></ion-icon>
+CARRINHO           - <ion-icon name="cart"></ion-icon>
+CORAÇÃO            - <ion-icon name="heart"></ion-icon>
+OLHO               - <ion-icon name="eye"></ion-icon>
+ESTRELA PREENCHIDA - <ion-icon name="star"></ion-icon>
+ESTRELA METADE     - <ion-icon name="star-half"></ion-icon>
+FACEBOOK           - <ion-icon name="logo-facebook"></ion-icon>
+INSTAGRAM          - <ion-icon name="logo-instagram"></ion-icon>
+LINKEDIN           - <ion-icon name="logo-linkedin"></ion-icon>
+TWITTER            - <ion-icon name="logo-twitter"></ion-icon>
+
+OBSERVAÇÃO:
+PARA CONSEGUIR VISUALIZAR OS ÍCONES, TEREMOS QUE UTILIZAR UM SCRIPT EM JAVASCRIPT.
+NO PRÓPRIO SITE DOS ÍCONES JÁ ESTÁ O SCRIPT, BASTANDO APENAS COPIAR E COLAR NO FINAL DO HTML ANTES DA FINALIZAÇÃO DA BODY
+ESSES SCRIPTS ENCONTRAMOS NA OPÇÃO "USAGE/INSTALLATION" DO SITE DOS ÍCONES
+
+<script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+<script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
+
+fonte: https://ionic.io/ionicons
