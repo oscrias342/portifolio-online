@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.perfil-img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin: 20px 0;
+}
+
+.ui-grid-a .ui-block-a {
+    padding: 10px;
+}
+
+.ui-btn {
+    background-color: #007bff;
+    color: white;
+    border-radius: 8px;
+    padding: 10px 20px;
+    text-align: center;
+    display: block;
+    margin-top: 20px;
+}
+
+.ui-btn:hover {
+    background-color: #0056b3;
+}
